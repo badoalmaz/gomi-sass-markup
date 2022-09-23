@@ -1,4 +1,4 @@
-##Landing page for a restaurant 
+## Landing page for a restaurant 
 
 Visit the website [Gomi](https://gomi-rouge.vercel.app/)
 
